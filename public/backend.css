@@ -1,0 +1,150 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  color:#fff;
+}
+
+body {
+  background-color: #121212;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 17px;
+  font-weight: normal;
+}
+div.center {
+  max-width: 1000px;
+  margin:0 auto;
+  overflow: hidden;
+  padding: 0 15px;
+}
+
+main {
+  overflow: hidden;
+  width: 100%;
+}
+
+main div.bg-image {
+  position: absolute;
+  opacity: 0.3;
+  top:0; left:0; right: 0; bottom: 0;
+  z-index: -1;
+  overflow: hidden;
+  width: 100%;
+  background-image: url("./images/rolex2.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+main div.logo {
+  max-width: 320px;
+  display: block;
+  margin-top:50px;
+  margin-bottom:50px;
+}
+
+main div.logo img {
+  width:100%;
+  height:auto;
+}
+
+main div.wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+form#login-backend {
+  display:block;
+  width: 320px;
+}
+
+form#login-backend label {
+  display:block;
+  width:100%;
+  margin-bottom:5px;
+}
+form#login-backend input {
+  width:100%;
+  height:40px;
+  display: block;
+  color:#fff;
+  background-color: #000;
+  border:0;
+  margin-bottom:20px;
+  padding:2px 5px;
+  border-bottom:2px solid rgb(80, 75, 75);
+}
+form#login-backend input#login-btn {
+  font-size: 17px;
+  border:0;
+  height: auto;
+  background-color: #fff;
+  color:#000;
+  cursor: pointer;
+  margin-top: 10px;
+  padding:10px 0;
+}
+
+div.form-wrapper {
+  margin-top:50px;
+}
+div.form-wrapper form#add-product {
+  display: block;
+  border:0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+form#add-product fieldset {
+  border:0;
+  width:50%;
+  margin-bottom:10px;
+  padding: 0 10px;
+}
+form#add-product fieldset.file {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+}
+form#add-product fieldset label {
+  width:140px;
+  display:inline-block;
+  margin-right:10px;
+  vertical-align: top;
+}
+form#add-product fieldset input[type="file"]{
+  border:0;
+}
+form#add-product fieldset input[type="text"]{
+  height:30px;
+  border:0;
+  width: calc(100% - 160px);
+  background-color: rgb(59, 45, 45);
+  font-size: 14px;
+  padding:5px;
+}
+form#add-product fieldset input[type="submit"],
+form#add-product fieldset button{
+  border:0;
+  display:block;
+  background-color: rgb(59, 45, 45);
+  font-size: 16px;
+  padding: 20px;
+  margin-top:15px;
+  cursor: pointer;
+}
+form#add-product fieldset button:hover{
+  border:4px solid rgb(59, 45, 45);
+  background-color: transparent;
+}
+form#add-product fieldset textarea{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  padding:5px;
+  border:0;
+  background-color: rgb(59, 45, 45);
+  height: 100px;
+  width: calc(100% - 160px);
+  resize: none;
+}

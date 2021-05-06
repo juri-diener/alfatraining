@@ -1,0 +1,295 @@
+{
+  "watches":[
+    {
+      "Marke":"Rolex",
+      "Modell":"Daytona",
+      "Artikel":"kd4739",
+      "Preis":33690 ,
+      "Typ":"Herrenuhr",
+      "Jahr":"2020",
+      "Gehaeuse":"Weißgold",
+      "Armband":"Kautschuk",
+      "Uhrwerk":"Automatik",
+      "Ziffernblatt":"Grau",
+      "Glas":"Saphirglas",
+      "Durchmesser":"40.0 mm",
+      "Besonderheiten": [
+      "Verschraubte Krone",
+      "Verschraubte Drücker",
+      "Chronograph",
+      "Faltschließe"
+      ],
+      "images":[
+        "./images/kd4739/rolex-daytona-116519ln-colognewatch-01-4739.jpg",
+        "./images/kd4739/rolex-daytona-116519ln-colognewatch-02-4739.jpg",
+        "./images/kd4739/rolex-daytona-116519ln-colognewatch-03-4739.jpg",
+        "./images/kd4739/rolex-daytona-116519ln-colognewatch-04-4739.jpg",
+        "./images/kd4739/rolex-daytona-116519ln-colognewatch-05-4739.jpg",
+        "./images/kd4739/rolex-daytona-116519ln-colognewatch-06-4739.jpg",
+        "./images/kd4739/rolex-daytona-116519ln-colognewatch-07-4739.jpg",
+        "./images/kd4739/rolex-daytona-116519ln-colognewatch-08-4739.jpg",
+        "./images/kd4739/rolex-daytona-116519ln-colognewatch-09-4739.jpg"
+      ]
+    },
+    {
+      "Marke":"Rolex",
+      "Modell":"Daytona Floating",
+      "Artikel":"kk2717",
+      "Preis":69990,
+      "Typ":"Herrenuhr",
+      "Jahr":"1991",
+      "Gehaeuse":"Gelbgold",
+      "Armband":"Gelbgold",
+      "Uhrwerk":"Automatik",
+      "Ziffernblatt":"Schwarz",
+      "Glas":"Saphirglas",
+      "Durchmesser":"40.0 mm",
+      "Besonderheiten":[
+        "Kleine Sekunde",
+        "Verschraubte Krone",
+        "Verschraubte Drücker",
+        "Datum",
+        "Chronograph",
+        "Faltschließe"
+      ],
+      "images":[
+        "./images/kk2717/p1010025_31_3.jpg",
+        "./images/kk2717/p1010026_32_3.jpg",
+        "./images/kk2717/p1010028_24_3.jpg",
+        "./images/kk2717/p1010029_22_2.jpg"
+      ]
+    },
+    {
+      "Marke":"Rolex",
+      "Modell":"Explorer Blackout",
+      "Artikel":"kk2716",
+      "Preis":17990,
+      "Typ":"Herrenuhr",
+      "Jahr":"1998",
+      "Gehaeuse":"Stahl",
+      "Armband":"Stahl",
+      "Uhrwerk":"Automatik",
+      "Ziffernblatt":"Schwarz",
+      "Glas":"Saphirglas",
+      "Durchmesser":"36.0 mm",
+      "Besonderheiten":[
+        "Verschraubte Krone"
+      ],
+      "images":[
+        "./images/kk2716/p1010034_13.jpg",
+        "./images/kk2716/p1010035_12.jpg",
+        "./images/kk2716/p1010036_16.jpg"
+      ]
+    },
+    {
+      "Marke":"Rolex",
+      "Modell":"Sky-Dweller",
+      "Artikel":"ad4488",
+      "Preis":24990,
+      "Typ":"Herrenuhr",
+      "Jahr":"2015",
+      "Gehaeuse":"Weißgold",
+      "Armband":"Leder",
+      "Uhrwerk":"Automatik",
+      "Ziffernblatt":"Schwarz",
+      "Glas":"Saphirglas",
+      "Durchmesser":"42.0 mm",
+      "Besonderheiten":	[
+        "Verschraubte Krone",
+        "Monatsanzeige",
+        "Datum",
+        "Drehbare Lünette",
+        "Faltschließe",
+        "GMT / 2. Zeitzone"
+      ],
+      "images":[
+        "./images/ad4488/rolex-sky-dweller-326139-colognewatch-01-4488.jpg",
+        "./images/ad4488/rolex-sky-dweller-326139-colognewatch-02-4488.jpg",
+        "./images/ad4488/rolex-sky-dweller-326139-colognewatch-03-4488.jpg",
+        "./images/ad4488/rolex-sky-dweller-326139-colognewatch-04-4488.jpg",
+        "./images/ad4488/rolex-sky-dweller-326139-colognewatch-05-4488.jpg",
+        "./images/ad4488/rolex-sky-dweller-326139-colognewatch-06-4488.jpg",
+        "./images/ad4488/rolex-sky-dweller-326139-colognewatch-07-4488.jpg",
+        "./images/ad4488/rolex-sky-dweller-326139-colognewatch-08-4488.jpg",
+        "./images/ad4488/rolex-sky-dweller-326139-colognewatch-09-4488.jpg",
+        "./images/ad4488/rolex-sky-dweller-326139-colognewatch-10-4488.jpg"
+      ]
+    },
+    {
+      "Marke":"Rolex",
+      "Modell":"Day-Date Factory",
+      "Artikel":"ak2664",
+      "Preis":54990,
+      "Typ":"Herrenuhr",
+      "Jahr":"2016",
+      "Gehaeuse":"Gelbgold",
+      "Armband":"Gelbgold",
+      "Uhrwerk":"Automatik",
+      "Ziffernblatt":"Schwarz",
+      "Glas":"Saphirglas",
+      "Durchmesser":"40.0 mm",
+      "Besonderheiten": [
+        "Verschraubte Krone",
+        "Datum",
+        "Wochentag",
+        "Brilliantbesatz der Lünette",
+        "Brilliantbesatz des Zifferblattes",
+        "Faltschließe"
+      ],
+      "images":[
+        "./images/ak2664/img_7017.jpg",
+        "./images/ak2664/img_7018.jpg",
+        "./images/ak2664/img_7019.jpg",
+        "./images/ak2664/img_7020.jpg",
+        "./images/ak2664/img_7021.jpg",
+        "./images/ak2664/img_7022.jpg",
+        "./images/ak2664/img_7023.jpg"
+      ]
+    },
+    {
+      "Marke":"Rolex",
+      "Modell":"Day-Date Gelbgold",
+      "Artikel":"ad5110",
+      "Preis":14990,
+      "Typ":"Herrenuhr",
+      "Jahr":"1985",
+      "Gehaeuse":"Gelbgold",
+      "Armband":"Gelbgold",
+      "Uhrwerk":"Automatik",
+      "Ziffernblatt":"Gold",
+      "Glas":"Saphirglas",
+      "Durchmesser":"36.0 mm",
+      "Besonderheiten":[
+        "Verschraubte Krone",
+        "Datum",
+        "Wochentag",
+        "Faltschließe"
+      ],
+      "images":[
+        "./images/ad5110/rolex-day-date-18038-colognewatch-01-5110.jpg",
+        "./images/ad5110/rolex-day-date-18038-colognewatch-02-5110.jpg",
+        "./images/ad5110/rolex-day-date-18038-colognewatch-03-5110.jpg",
+        "./images/ad5110/rolex-day-date-18038-colognewatch-04-5110.jpg",
+        "./images/ad5110/rolex-day-date-18038-colognewatch-05-5110.jpg",
+        "./images/ad5110/rolex-day-date-18038-colognewatch-06-5110.jpg",
+        "./images/ad5110/rolex-day-date-18038-colognewatch-07-5110.jpg",
+        "./images/ad5110/rolex-day-date-18038-colognewatch-08-5110.jpg",
+        "./images/ad5110/rolex-day-date-18038-colognewatch-09-5110.jpg",
+        "./images/ad5110/rolex-day-date-18038-colognewatch-10-5110.jpg"
+      ]
+    },
+    {
+      "Marke":"Rolex",
+      "Modell":"Submariner",
+      "Artikel":"ak3786",
+      "Preis":30990,
+      "Typ":"Herrenuhr",
+      "Jahr":"2015",
+      "Gehaeuse":"Gelbgold",
+      "Armband":"Gelbgold",
+      "Uhrwerk":"Automatik",
+      "Ziffernblatt":"Schwarz",
+      "Glas":"Saphirglas",
+      "Durchmesser":"40.0 mm",
+      "Besonderheiten":[
+        "Verschraubte Krone",
+        "Datum",
+        "Drehbare Lünette",
+        "Faltschließe"
+      ],
+      "images":[
+        "./images/ak3786/img_6680.jpg",
+        "./images/ak3786/img_6681.jpg",
+        "./images/ak3786/img_6682.jpg",
+        "./images/ak3786/img_6683.jpg",
+        "./images/ak3786/img_6684.jpg"
+      ]
+    },
+    {
+      "Marke":"Rolex",
+      "Modell":"Sky-Dweller Gelbgold",
+      "Artikel":"ak3715",
+      "Preis":69990,
+      "Typ":"Herrenuhr",
+      "Jahr":"2016",
+      "Gehaeuse":"Gelbgold",
+      "Armband":"Gelbgold",
+      "Uhrwerk":"Automatik",
+      "Ziffernblatt":"Gold",
+      "Glas":"Saphirglas",
+      "Durchmesser":"42.0 mm",
+      "Besonderheiten": [
+        "Verschraubte Krone",
+        "Datum",
+        "Drehbare Lünette",
+        "Brilliantbesatz der Lünette",
+        "Brilliantbesatz des Zifferblattes",
+        "Faltschließe",
+        "GMT / 2. Zeitzone"
+      ],
+      "images":[
+        "./images/ak3715/img_5562.jpg",
+        "./images/ak3715/img_5563.jpg",
+        "./images/ak3715/img_5564.jpg",
+        "./images/ak3715/img_5565.jpg",
+        "./images/ak3715/img_5566.jpg"
+      ]
+
+    },
+    {
+      "Marke":"Rolex",
+      "Modell":"Daytona Weißgold",
+      "Artikel":"kk3492",
+      "Preis":24990,
+      "Typ":"Herrenuhr",
+      "Jahr":"2014",
+      "Gehaeuse":"Weißgold",
+      "Armband":"Weißgold",
+      "Uhrwerk":"Automatik",
+      "Ziffernblatt":"Schwarz",
+      "Glas":"Saphirglas",
+      "Durchmesser":"40.0 mm",
+      "Besonderheiten":[
+        "Kleine Sekunde",
+        "Verschraubte Krone",
+        "Verschraubte Drücker",
+        "Chronograph",
+        "Faltschließe"
+      ],
+      "images":[
+        "./images/kk3492/img_2167_1.jpg",
+        "./images/kk3492/img_2168_1.jpg",
+        "./images/kk3492/img_2169_1.jpg",
+        "./images/kk3492/img_2170_1.jpg",
+        "./images/kk3492/img_2172_1.jpg"
+      ]
+    },
+    {
+      "Marke":"Rolex",
+      "Modell":"Daytona Porcelain Dial Fullset",
+      "Artikel":"kk2718",
+      "Preis":169900,
+      "Typ":"Herrenuhr",
+      "Jahr":"1989",
+      "Gehaeuse":"Stahl",
+      "Armband":"Stahl",
+      "Uhrwerk":"Automatik",
+      "Ziffernblatt":"Weiß",
+      "Glas":"Saphirglas",
+      "Durchmesser":"40.0 mm",
+      "Besonderheiten":[
+        "Kleine Sekunde",
+        "Verschraubte Krone",
+        "Verschraubte Drücker",
+        "Chronograph",
+        "Faltschließe"
+      ],
+      "images":[
+        "./images/kk2718/p1010007_141.jpg",
+        "./images/kk2718/p1010009_121.jpg",
+        "./images/kk2718/p1010010_126.jpg",
+        "./images/kk2718/p1010011_93.jpg"
+      ]
+    }
+  ]
+}

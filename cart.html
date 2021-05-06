@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="style.css">
+  <title>Ihre Rolex bei uns</title>
+</head>
+<body class="cart">
+  <header>
+    <div class="center">
+        <div class="wrapper">
+          <div class="logo">
+              <a href="/web/watch-shop/">
+                <img src="images/logo-white.png" />
+              </a>
+          </div>
+          <div class="menu">
+              <a id="logout" href="/web/watch-shop/">Logout</a>
+              <a id="checkout" href="/web/watch-shop/checkout.html">Mein Käufe</a>
+          </div>
+          <div class="nav-items">
+            <a href="/web/watch-shop/cart.html">
+              <span class="cart-icon"></span>
+            </a>
+            <span class="favourite-icon"></span>
+          </div>
+        </div>
+    </div>
+  </header>
+  <main>
+    <section class="hero">
+      <div></div>
+      <div></div>
+      <div></div>
+    </section>
+    <section class="content">
+      <div class="center">
+        <h1>Warenkorb</h1>
+          <div class="cart-wrapper"></div>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <div class="address"></div>
+    <div class="nav-items"></div>
+    <div class="social"></div>
+  </footer>
+  <div class="authentication-popup">
+    <div class="container">
+      <span class="close-auth">X</span>
+      <div class="auth">
+        <div class="login">
+          <h2>Login</h2>
+          <form id="login">
+            <label>E-Mail:</label>
+            <input type="email" name="email" />
+            <label>Passwort:</label>
+            <input class="repeat" type="password" name="password" />
+            <input type="submit" value="Login" class="submit" />
+          </form>
+          <p class="switchTo" id="to-register">Registrieren</p>
+        </div>
+        <div class="register">
+          <h2>Register</h2>
+          <form id="register">
+            <label>E-Mail:</label>
+            <input type="email" name="email" />
+            <label>Passwort:</label>
+            <input type="password" name="password" />
+            <label>Passwort Wiederholen:</label>
+            <input class="repeat" type="password" name="password-repeat" />
+            <input type="submit" value="Register" class="submit" />
+          </form>
+          <p class="switchTo" id="to-login">Zum Login</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="js/script.js"></script>
+</body>
+</html>
